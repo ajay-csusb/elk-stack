@@ -1,0 +1,21 @@
+instances:
+  - name: es01
+    dns:
+      - es01 
+    ip:
+      - 34.102.71.185 
+  - name: es02
+    dns:
+      - es02
+    ip:
+      - 34.102.71.185 
+  - name: es03
+    dns:
+      - es03
+    ip:
+      - 34.102.71.185 
+  - name: 'kib01'
+    dns: 
+      - kib01
+    ip:
+      - 34.102.71.185 
